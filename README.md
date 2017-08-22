@@ -11,4 +11,4 @@ Author(s): Hoyt Long and Richard Jean So
 2.  [HaikuClassificationFunctions](https://github.com/hoytlong/PatternRecognition/blob/master/HaikuClassificationFunctions.py)
 3.  Nltk package. I used cmudict as the author did in his paper. 
 
-Chinese couplets raw texts are provided in the excel file in this repository. 
+Chinese couplets raw texts are provided in the excel file. 
