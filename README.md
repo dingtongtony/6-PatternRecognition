@@ -1,6 +1,6 @@
 # 6-PatternRecognition
 
-This repository gives more empirical evidence to [So & Long (2016)](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf). 
+This repository is using the methods in [So & Long (2016)](https://lucian.uchicago.edu/blogs/literarynetworks/files/2015/12/LONG_SO_CI.pdf) on the corpus of Chinese couplets. 
 
 Paper's title: Literary Pattern Recognition: Modernism between Close Reading and Machine Learning
 
